@@ -1,10 +1,10 @@
 # 👋 Hey there, I'm Kumaraguru!
 
-🎓 I'm currently pursuing **B.Tech in Artificial Intelligence and Data Science (2nd year)**, and I'm passionate about building impactful AI applications that help real people in real-world situations.
+🎓 I'm currently pursuing **B.Tech in Artificial Intelligence and Data Science (3rd year)**, and I'm passionate about building impactful AI applications that help real people in real-world situations.
 
 ## 🧠 About Me
 
-- 🧑‍🎓 2nd-year student | Department of AI & DS
+- 🧑‍🎓 3rd-year student | Department of AI & DS
 - 💻 Exploring the world of **AI, Machine Learning, Deep Learning, and Cybersecurity**
 -  🛠️ I enjoy hands-on projects and love getting into the nitty-gritty of model development
 
