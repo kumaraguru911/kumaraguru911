@@ -20,7 +20,7 @@
 
 ## 📂 Tools & Tech Stack
 
-- Python, SQL, HTML
+- Python, SQL, HTML, React, Flutter
 - TensorFlow, scikit-learn, OpenCV, Mediapipe
 - Google Colab, Kaggle API, GitHub, VS Code, Canva
 
