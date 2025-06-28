@@ -20,14 +20,14 @@
 
 ## 📂 Tools & Tech Stack
 
-  -Languages & Frameworks:
-    -Python, SQL, HTML, React, Flutter
+  Languages & Frameworks:
+     Python, SQL, HTML, React, Flutter
 
-  -ML & Computer Vision Libraries:
-    -TensorFlow, scikit-learn, OpenCV, Mediapipe
+  ML & Computer Vision Libraries:
+     TensorFlow, scikit-learn, OpenCV, Mediapipe
 
-  -Development & Collaboration Tools:
-    -Google Colab, Kaggle API, GitHub, VS Code, Canva
+  Development & Collaboration Tools:
+     Google Colab, Kaggle API, GitHub, VS Code, Canva
 
 ---
 
