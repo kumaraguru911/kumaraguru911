@@ -4,7 +4,7 @@
 
 ## 🧠 About Me
 
-- 🧑‍🎓 3rd-year student | Department of AI & DS
+- 🧑‍🎓 4th-year student | Department of AI & DS
 - 💻 Exploring the world of **AI, Machine Learning, Deep Learning, and Cybersecurity**
 -  🛠️ I enjoy hands-on projects and love getting into the nitty-gritty of model development
 
@@ -13,10 +13,6 @@
 - ✅ *Machine Learning with Python: Decision Trees*
 - ✅ *More Python Tips, Tricks, and Techniques for Data Science* (LinkedIn Learning)
 - ✅ Completed C, C++, Java, Python at SSI Anna Nagar## 📜 Certifications
-
-- ✅ *Machine Learning with Python: Decision Trees*
-- ✅ *More Python Tips, Tricks, and Techniques for Data Science* (LinkedIn Learning)
-- ✅ Completed C, C++, Java, Python at SSI Anna Nagar
 
 ## 📂 Tools & Tech Stack
 
