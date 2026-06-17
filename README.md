@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Kumaraguru!
 
-🎓 I'm currently pursuing **B.Tech in Artificial Intelligence and Data Science (3rd year)**, and I'm passionate about building impactful AI applications that help real people in real-world situations.
+🎓 I'm currently pursuing **B.Tech in Artificial Intelligence and Data Science (4th year)**, and I'm passionate about building impactful AI applications that help real people in real-world situations.
 
 ## 🧠 About Me
 
